@@ -1,0 +1,24 @@
+{
+  "name": "mongxor",
+  "version": "1.0.0",
+  "description": "MongoDB daha basit ve daha hızlı hali.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "easy-mongo",
+    "discord-bot",
+    "bot",
+    "discord",
+    "bot-db",
+    "mongodb",
+    "database"
+  ],
+  "author": "UnoxDevs",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0"
+  }
+}
