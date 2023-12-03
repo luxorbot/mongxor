@@ -7,7 +7,7 @@ MongoDB daha basit ve daha hızlı hali.
 ## 🛠 Kurulum
 
 - İlk adım olarak, projenizin dizininde MongoDB sürücüsünü yüklemeniz gerekmektedir:
-``npm i & pnpm i mongodb``
+``npm i & pnpm i mongxor``
 - İkinci olarak projenize tanımlayın.
 ```js
 const Mongxor = require('mongxor'); // mongxor modülünü projeye ekleyin.
